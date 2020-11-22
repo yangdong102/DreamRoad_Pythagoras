@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<!doctype html>
 
-You can use the [editor on GitHub](https://github.com/yangdong102/DreamRoad_Pythagoras/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+중원고등학교 2학년 드림로드: 머신러닝을 이용한 웹사이트 만들기
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Github 라는 프로그램을 통한 방법
 
-### Markdown
+1. Github 사이트에 들어가서 프로그램을 다운받는다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. 사이트에 로그인을 한다.
 
-```markdown
-Syntax highlighted code block
+3. 프로그램을 다운로드 한다.
 
-# Header 1
-## Header 2
-### Header 3
+4. 코드 이름을 만든다.(DreamRoad_Pythagoras)
 
-- Bulleted
-- List
+5. index.html에 들어가서 명령어 <!doctype html>를 입력한다.
 
-1. Numbered
-2. List
+6. 사이트에 넣고 싶은 텍스트를 명령어 밑에 입력한다.(여기에 나와있는 방법을 적은게 6번의 과정이다)
 
-**Bold** and _Italic_ and `Code` text
+7. Commit changes를 클릭하여 저장한다.
 
-[Link](url) and ![Image](src)
-```
+8. Settings에 들어가서 Github Pages로 간다.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+9. Source에서 save를 클릭하고 그 밑에 있는 테마설정을 들어가서 꾸민다.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yangdong102/DreamRoad_Pythagoras/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+10. 쓰고싶은 사이트를 입력하고 똑같이 save를 누르면 완성!
